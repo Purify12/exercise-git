@@ -16,4 +16,4 @@ Git reset untuk mengembalikan ke satu atau beberapa file sebelumnya sedangkan gi
 
 C. Perbedaan Git dan Github
 ---
-Git adalah programnya sedangkan github adalah penyedianya
+Git adalah toolsnya sedangkan github adalah penyedianya
