@@ -1,7 +1,7 @@
 A. Step inisialisasi - push
 ---
 1. Buat repository di folder lalu perintah pada cmd "git init <nama file>"
-2. Cek status file "git git status"
+2. Cek status file "git status"
 3. Buat repository dengan nama sama di github
 4. Hubungkan ke github dengan perintah "git remote add origin https://github.com/Purify12/Exampleinitialization.git"
 5. Tambahkan file pada repository
